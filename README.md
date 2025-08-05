@@ -65,8 +65,9 @@ python manage.py runserver
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 📎 Download This README
+## 👨‍💻 Developed By
 
-Click below to download the README file:
+**Muhammad Saeed**  
+AI & Data Science Enthusiast | Embedded Systems Developer  
+[GitHub Profile](https://github.com/Saeed-dev2)
 
-**[📥 Download README.md](./README.md)**
