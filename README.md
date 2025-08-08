@@ -1,3 +1,4 @@
+
 # 🚀 django-portfolio-lab
 
 **django-portfolio-lab** is a professional-grade, Django-based portfolio website project currently under development. Designed as both a personal branding platform and a technical learning lab, this project demonstrates real-world backend and frontend integration using the Django web framework.
